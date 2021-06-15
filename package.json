@@ -1,0 +1,38 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "DiscordBot by mixer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "dev:watch": "node index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mixer",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "chalk": "^4.1.1",
+    "cli-table-helper": "^1.2.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "fortnite": "^4.3.2",
+    "material-table": "^1.69.3",
+    "minecraft-server-util": "^3.5.1",
+    "nodemon": "^2.0.7",
+    "random-puppy": "^1.1.0",
+    "table": "^6.3.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixerek0/bot-temp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mixerek0/bot-temp/issues"
+  },
+  "homepage": "https://github.com/mixerek0/bot-temp#readme"
+}
